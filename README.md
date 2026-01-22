@@ -10,4 +10,4 @@ Dette repoet inneholder arbeidet mitt med Oblig 1 i STK1110 (Høsten 2025). Øvi
 
 ## Her er oppgaven:
 
-[oblig_1_2025.pdf](https://github.com/user-attachments/files/24797050/oblig_1_2025.pdf)
+![Image Alt]([[oblig_1_2025.pdf](https://github.com/user-attachments/files/24797050/oblig_1_2025.pdf)](https://github.com/jsandtangen/ML-estimation-gamma/blob/574f14849bf4f36580562f01488a1ca6d13230fd/oblig_1_2025.pdf))
