@@ -1,0 +1,1 @@
+# Gamma-fordeling-og-estimering
